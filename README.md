@@ -78,3 +78,27 @@ A repository for storing Apache Superset queries and chart instructions
 
 ### Trigger counts per analysis pipeline in 365 days
   * SQL query: [igf_pipeline_trigger_counts_per_analysis_pipeline_in_365_days.sql](igf_pipeline_trigger_counts_per_analysis_pipeline_in_365_days.sql)
+
+
+## Dashboard: COSMX
+
+### CosMx - Mean transcript per cell per tissue
+  * SQL query: [CosMx_Mean_transcript_per_cell_per_tissue.sql](CosMx_Mean_transcript_per_cell_per_tissue.sql)
+
+### COSMX slide per platform
+  * SQL query: [COSMX_slide_per_platform.sql](COSMX_slide_per_platform.sql)
+
+### CosMX slide run per quarter
+    * SQL query: [CosMX_slide_run_per_quarter.sql](CosMX_slide_run_per_quarter.sql)
+
+### CosMx Slide Panels
+    * SQL query: [CosMx_Slide_Panels.sql](CosMx_Slide_Panels.sql)
+
+### Total FOV distribution per COSMX panel
+    * SQL query: [COSMX_Total_FOV_distribution_per_panel.sql](COSMX_Total_FOV_distribution_per_panel.sql)
+
+### Slides per project
+    * SQL query: [COSMX_Slides_per_project.sql](COSMX_Slides_per_project.sql)
+
+### Empty Fovs
+    * SQL query: [COSMX_Empty_Fovs.sql](COSMX_Empty_Fovs.sql)
